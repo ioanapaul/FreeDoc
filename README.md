@@ -20,3 +20,5 @@ An appointment can have only one doctor, but a doctor can have multiple appointm
 An appointment can have only one patient, but a patient can have multiple appointments.
 A doctor can have multiple patients through appointments, and vice versa.
 I invite you to create the models and migrations and then run them
+
+https://github.com/ioanapaul/The_Gossip_Project
