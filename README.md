@@ -22,3 +22,4 @@ A doctor can have multiple patients through appointments, and vice versa.
 I invite you to create the models and migrations and then run them
 
 https://github.com/ioanapaul/The_Gossip_Project
+https://github.com/ioanapaul/Airbnb_Dogsitter
